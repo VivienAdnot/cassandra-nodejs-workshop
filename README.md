@@ -1,6 +1,9 @@
 Workshop NodeJS & Cassandra Database
 ===
 
+Excel prise de notes du meetup:
+https://docs.google.com/spreadsheets/d/1nVNHRJd6G1na14kujwh9VwFXCWLki0FO4HI9pgmzHc4/edit?usp=sharing
+
 Le but de ce Workshop (scéance de traveaux pratiques) est de permettre à des participants 
 avec un minimum de connaissance en développement JavaScript et en base de données d'apprendre
 ce qu'est la base de données Cassandra, comment l'utiliser seule et avec NodeJS.
